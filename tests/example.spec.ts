@@ -8,6 +8,7 @@ test('has title', async ({ page }) => {
   console.log("Practice 2nd Push");
   console.log("Practice 3rd Push");
   console.log("Practice 4th Push");
+  console.log("Practice 5th Push");
 });
 
 test('get started link', async ({ page }) => {
