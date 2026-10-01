@@ -7,6 +7,7 @@ test('has title', async ({ page }) => {
   await expect(page).toHaveTitle(/Playwright/);
   console.log("Practice 2nd Push");
   console.log("Practice 3rd Push");
+  console.log("Practice 4th Push");
 });
 
 test('get started link', async ({ page }) => {
